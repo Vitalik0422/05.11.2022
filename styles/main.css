@@ -17,7 +17,6 @@ header {
 
 .divheader1 {
 	margin-left:365px;
-	
 }
 .divall {
 	margin-left:35px;
@@ -28,7 +27,7 @@ header {
 	overflow: hidden;
 	width: auto;
 	height: 513px;
-	background:linear-gradient(0deg, #296DCE, #296DCE);
+	background:linear-gradient(10deg, #296DCE 70% ,#3877d2 70% 100%);
 	z-index: -2;
 }
 .divmaingroup2 {
@@ -63,10 +62,10 @@ span {
 	color: #ffffff;
 }
 .divimggroup1content {
-	display:flex;
-	justify-content:flex-end;
-	margin-top:-350px;
-	margin-right:350px;
+	display: flex;
+	justify-content: flex-end;
+	margin-top: -350px;
+	margin-right: 100px;
 }
 .karpachoff {
 	margin-left: 243px;
