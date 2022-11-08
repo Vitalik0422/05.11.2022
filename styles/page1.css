@@ -1,0 +1,41 @@
+conteiner {
+    max-width: 1130px;
+    margin: 0 auto;
+    display: flex;
+}
+.hero_background_img {
+    background-image: url(../img/imgpage2.png);
+    width: 1620;
+    height: 537px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero_content { 
+   width: 1130px;
+}
+.background_text {
+    width: 730px;
+    height: 82px;
+    margin-left: -150px;
+    background:  #222B3A;
+    border-radius: 3px;
+    display: flex;
+    justify-content: flex-end;
+}
+.hero_text {
+    font-family: 'Intro ';
+    font-size: 44px;    
+    line-height: 44px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+section {
+    width: 1110px;
+    height: 186px;
+    background: #fff;
+    
+}

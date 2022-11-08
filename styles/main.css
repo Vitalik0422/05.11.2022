@@ -1,25 +1,24 @@
 @import url('https://fonts.cdnfonts.com/css/intro-book-alt');
 header {
 	display:flex;
-	width:72px;
+	justify-content: center	;
+	width: 100vw;
+	height: 72px;
 }
-.imgheader {
-	margin-left:244px;
-	margin-bottom:19px;
-	margin-top:19px;
-	margin-right:0px;
+.header_divmain {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 1110px;
+	height: 72px;
 }
-.flex1 {
-	display:flex;
+.header_nav {
+	display: flex;
 	font-family: 'Proxima Nova';
-	align-items:center;
+	align-items: center;
 }
-
-.divheader1 {
-	margin-left:365px;
-}
-.divall {
-	margin-left:35px;
+.header_nav_item {
+	margin-left: 35px;
 	white-space: nowrap;
 }
 .divmaingroup1 {
